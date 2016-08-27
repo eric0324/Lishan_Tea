@@ -2,16 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+url: http://www.ericwu.asia/lishanTea/
+title: 台灣梨山茶
+email: smart032410@gmail.com
+author: Eric Wu
+description: 梨山高冷茶區位於海拔一千八百到兩千六百米左右之貍山山脈深山茶園，終年雲霧繚繞、土壤有機質含量豐富、葉片豐潤、渾厚、細緻、果膠質含量高、在氣候、土壤環境值均佳的條件下所產製成的茶葉。，
+copyright: 'Copyright &copy; 2015 Eric wu. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +22,5 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - title: email
+    url: smart032410@gmail.com
