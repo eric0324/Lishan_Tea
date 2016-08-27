@@ -2,7 +2,9 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 訂購方式
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+一盒（20入）兩百元，運費 50，滿千免運費，星期一至星期五，每天下午3點都出貨！
+
+如果在下午 3 點前通知我們轉帳事宜，兩天內就可收到貨！
