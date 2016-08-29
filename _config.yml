@@ -6,7 +6,7 @@ url: http://www.ericwu.asia/lishanTea/
 title: 台灣梨山茶
 email: smart032410@gmail.com
 author: Eric Wu
-description: 梨山高冷茶區位於海拔一千八百到兩千六百米左右之貍山山脈深山茶園，終年雲霧繚繞、土壤有機質含量豐富、葉片豐潤、渾厚、細緻、果膠質含量高、在氣候、土壤環境值均佳的條件下所產製成的茶葉。，
+description: 梨山高冷茶區位於海拔一千八百到兩千六百米左右之貍山山脈深山茶園，終年雲霧繚繞、土壤有機質含量豐富、葉片豐潤、渾厚、細緻、果膠質含量高、在氣候、土壤環境值均佳的條件下所產製成的茶葉。
 copyright: 'Copyright &copy; 2015 Eric wu. All Rights Reserved.'
 
 # ----------------------- #
@@ -21,6 +21,6 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: facebook
-    url: 
+# social:
+#   - title: facebook
+#     url:
